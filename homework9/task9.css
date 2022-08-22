@@ -1,0 +1,13 @@
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 20px;
+}
+.member{
+    background: blanchedalmond;
+    margin-bottom: 5px;
+}
+.member>img{
+    width:150px;
+}
