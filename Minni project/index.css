@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#users_div {
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    background: darkgray;
+}
+
+#user_btn {
+    width: 90%;
+    height: 20px;
+    margin-top: 20px;
+    background: dodgerblue;
+    border-radius: 7px;
+}
+h2{
+    color: black;
+    font-size: larger;
+    margin-top: 20px;
+}
